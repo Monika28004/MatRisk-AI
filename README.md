@@ -1,3 +1,4 @@
+
 # 🚀 MatRisk AI
 
 > **A Dual-Domain AI Framework Integrating Material Science and Financial Risk Analytics**
@@ -7,7 +8,6 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
----
 
 # 📌 Project Overview
 
@@ -385,3 +385,7 @@ AI • Machine Learning • Material Risk Analytics • Financial Risk Modelling
 ## ⭐ Acknowledgement
 
 This project was developed as part of the **Zetheta AI Internship Program** to demonstrate the integration of material science and financial risk analytics through a modular AI framework.
+=======
+# MatRisk-AI
+MatRisk AI is a dual-domain machine learning system that integrates material science and financial risk modeling to predict material failure, commodity risk, and ESG impact using physics-informed and data-driven AI models.
+>>>>>>> c965a2f13131aadaf493a683bcb1d8cac1a3a954
