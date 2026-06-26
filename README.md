@@ -376,7 +376,7 @@ This project is released under the MIT License.
 
 # 👨‍💻 Developer
 
-**Devansh Rajput**
+**MONIKA SINGH**
 
 AI • Machine Learning • Material Risk Analytics • Financial Risk Modelling
 
@@ -388,4 +388,4 @@ This project was developed as part of the **Zetheta AI Internship Program** to d
 =======
 # MatRisk-AI
 MatRisk AI is a dual-domain machine learning system that integrates material science and financial risk modeling to predict material failure, commodity risk, and ESG impact using physics-informed and data-driven AI models.
->>>>>>> c965a2f13131aadaf493a683bcb1d8cac1a3a954
+
